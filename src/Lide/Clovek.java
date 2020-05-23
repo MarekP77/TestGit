@@ -23,4 +23,5 @@ public class Clovek {
     public String toString(){
         return String.format("%s (%d)", jmeno, vek);
     }
+
 }

@@ -7,5 +7,9 @@ public class Lide {
         karel.beh(10);
         karel.beh(10);
         karel.beh(10);
+        karel.beh(10);
+        karel.beh(10);
+        
     }
+
 }
